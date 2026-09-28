@@ -174,24 +174,30 @@ voebem-analytics/
 │   ├── 03_bronze_vra.ipynb
 │   ├── 04_bronze_referencias.ipynb
 │   ├── 05_silver_espelho.ipynb
-│   └── 09_governanca_gold.ipynb
+│   ├── 09_governanca_gold.ipynb
+│   └── README.md
 │
 ├── pipelines/
 │   └── qualidade/
 │       ├── 01_vra_marcado.sql
 │       ├── 02_vra_auditado.sql
-│       └── 03_vra_quarentena.sql
+│       ├── 03_vra_quarentena.sql
+│       └── README.md
 │
 ├── sql/
 │   ├── 05b_auditoria_qualidade_silver.sql
 │   ├── 06_gold_dim_aeroporto.sql
 │   ├── 07_gold_fato_voos.sql
 │   ├── 08_gold_obt_voos.sql
-│   └── 10_validacao_gold.sql
+│   ├── 10_validacao_gold.sql
+│   └── README.md
+│
+├── powerbi/
+│   ├── Painel de Análise VoeBem.pbix
+│   ├── dashboard-voebem.png
+│   └── README.md
 │
 └── README.md
-```
-
 ---
 
 ## 📊 Camada Analítica

@@ -6,6 +6,21 @@ A partir dos conceitos e práticas apresentados durante a imersão, o projeto fo
 
 > 📚 **Origem do projeto:** este projeto foi desenvolvido com base em uma Imersão da **Alura**, sendo utilizado como experiência prática para aprofundamento em Databricks e construção de pipelines de dados.
 
+## 📊 Dashboard Power BI
+
+O dashboard foi desenvolvido no **Microsoft Power BI** para análise das operações aéreas, utilizando os dados preparados na camada **Gold** da Arquitetura Medalhão.
+
+![Dashboard VoeBem Analytics](./powerbi/dashboard-voebem.png)
+Principais indicadores apresentados:
+
+- Total de voos
+- Percentual de voos atrasados
+- Atraso médio
+- Percentual de voos cancelados
+- Análise por aeroporto, companhia aérea, tipo de voo e período
+
+---
+
 ---
 
 ## 🎯 Objetivo
